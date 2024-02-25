@@ -1,11 +1,4 @@
+Pillow
 streamlit
-ComputerVisionClient
-CognitiveServicesCredentials
-array
-os
-Image
-sys
-time
-json
-ImageDraw
-ImageFont
+azure-cognitiveservices-vision-computervision
+msrest
